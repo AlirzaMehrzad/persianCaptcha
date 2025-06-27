@@ -86,11 +86,3 @@ func main() {
 ```
 
 Visit: http://localhost:8080/captcha to view the image in your browser.
-
-
----
-
-Would you like me to:
-
-- Generate this `README.md` as a file for download?
-- Add example HTML to embed the CAPTCHA in a form with token handling?
